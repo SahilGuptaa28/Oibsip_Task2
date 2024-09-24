@@ -48,7 +48,7 @@ public class NumberGuessingGame {
                 System.out.printf("Total Score = %d\n", totalScore);
                  
             }
-        }
+        
 
         }
     }
